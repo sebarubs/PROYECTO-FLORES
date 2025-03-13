@@ -56,7 +56,7 @@ body {
     position: absolute;
     width: 30px;
     height: 30px;
-    background-image: url('https://i.imgur.com/3iV4hCT.png'); /* URL de una flor amarilla */
+    background-image: url(https://i.pinimg.com/originals/8a/b1/bc/8ab1bc7c0afb243d53ed6cef0269e937.gif); /* URL de una flor amarilla */
     background-size: cover;
     animation: flotar 3s linear;
 }
