@@ -72,3 +72,16 @@ body {
         transform: translateY(-100px);
     }
 }
+body {
+    margin: 0;
+    overflow: hidden; /* Para que no haya barras de desplazamiento */
+    background: radial-gradient(#1a1a3d, #000); /* Fondo oscuro bonito */
+}
+
+canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+}
